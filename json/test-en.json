@@ -1,0 +1,18 @@
+[
+  {
+    "names": [
+      {
+        "firstname": "Hesham",
+        "lastname": "Muḥammad",
+        "nicknames": ["programmatic", "Fake data", "Data"]
+      },
+      {
+        "firstname": "Hesham",
+        "lastname": "Muḥammad",
+        "nicknames": { "primary": "New", "secondary": "programmatic" }
+      }
+    ],
+    "ages": [21, 43, 765],
+    "jobs": { "primary": "Engineer", "secondary": "Student" }
+  }
+]

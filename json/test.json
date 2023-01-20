@@ -1,0 +1,24 @@
+[
+  {
+    "names": [
+      {
+        "firstname": "هشام",
+        "lastname": "محمد",
+        "nicknames": ["مبرمج", "بيانات وهمية", "بيانات"]
+      },
+      {
+        "firstname": "هشام",
+        "lastname": "محمد",
+        "nicknames": {
+          "primary": "جديد",
+          "secondary": "مبرمج"
+        }
+      }
+    ],
+    "ages": [21, 43, 765],
+    "jobs": {
+      "primary": "مهندس",
+      "secondary": "طالب"
+    }
+  }
+]
