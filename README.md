@@ -9,17 +9,14 @@ translate any json file fields into what ever language you like (using iso code 
 ```bash
 npm install
 ```
-
 ### test & Run the script
-
+```bash
+npm run translate
+```
 <ul>
 <li>use the script file and the json folder to detect files and to translate it from a language </li>
 <li>
-run the script using this command :
-``` bash
-npm run translate
-```
-and a file would be generated to the same directory with '-{to_lang_is_code}.json' at the end of it
+run the script using this command and a file would be generated to the same directory with '-{to_lang_is_code}.json' at the end of it
 
 </li>
 </ul>
